@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<path fill="#E2D9D9" stroke="#000000" stroke-miterlimit="10" d="M555.784,413.703c0,6.627-5.373,12-12,12H96.162
+	c-6.627,0-12-5.373-12-12V103.919c0-6.627,5.373-12,12-12h447.622c6.627,0,12,5.373,12,12V413.703z"/>
+<g>
+	<g>
+		<path fill="#FCFAFB" d="M330.324,209.947c-98.901-1.957-179.077,73.419-179.077,168.358c0,5.841,0.307,11.62,0.9,17.323
+			l93.719,1.854c6.073-36.419,42.031-63.775,85.499-62.915s79.426,29.64,85.499,66.299l91.637,1.813
+			c0.593-5.68,0.9-11.446,0.9-17.288C509.401,290.453,429.226,211.904,330.324,209.947z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M330.324,209.947c-98.901-1.957-179.077,73.419-179.077,168.358
+			c0,5.841,0.307,11.62,0.9,17.323l93.719,1.854c6.073-36.419,42.031-63.775,85.499-62.915s79.426,29.64,85.499,66.299l91.637,1.813
+			c0.593-5.68,0.9-11.446,0.9-17.288C509.401,290.453,429.226,211.904,330.324,209.947z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 125.5719 150.0272)" font-family="'MyriadPro-Regular'" font-size="24">wifi strength %</text>
+</svg>
